@@ -15,6 +15,9 @@
     padding: 0;
     font-feature-settings: "pnum" on,"lnum" on;
 }
+html {
+	scroll-behavior: smooth;
+}
 body{
     background-color: var(--second-color);
 }
